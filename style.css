@@ -1,0 +1,57 @@
+
+div{ 
+  width: 300px ;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  line-height: 50px;
+  
+}
+.bio{ 
+  background-color: rgb(183, 182, 184);
+
+}
+.bio:hover {
+  background-color: azure;
+}
+.picture
+{ 
+background-color:rgb(84, 80, 216);
+margin-left: 600px;
+margin-top: -200px;
+position: relative;
+
+}
+.picture:hover {
+  background-color:  rgb(22, 198, 247);
+
+}
+
+.education 
+{
+  background-color: rgb(128, 130, 132);
+  margin-left: 300px;
+}
+.education:hover {
+  background-color: rgb(22, 198, 247);
+}
+.hobby 
+{
+  background-color:rgb(79, 117, 193);
+}
+.hobby:hover {
+  background-color: rgb(222, 226, 231);
+
+}
+.contact 
+{
+
+  background-color: rgb(233, 162, 136);
+  margin-left: 600px;
+  margin-top: -200px;
+}
+.contact:hover {
+  background-color: rgb(109, 184, 241);
+}
